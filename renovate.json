@@ -1,0 +1,13 @@
+{
+  "stabilityDays": 20,
+  "packageRules": [
+        {
+            "matchUpdateTypes": [
+                "minor",
+                "patch"
+            ],
+            "automerge": true
+        }
+    ],
+  "automergeType": "pr"
+}
