@@ -1,5 +1,6 @@
 {
   "stabilityDays": 10,
+  "ignoreTests": false,
   "packageRules": [
         {
             "matchUpdateTypes": [
