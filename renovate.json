@@ -1,5 +1,5 @@
 {
-  "stabilityDays": 20,
+  "stabilityDays": 10,
   "packageRules": [
         {
             "matchUpdateTypes": [
